@@ -1,2 +1,5 @@
 # hello-world
-Hello my first repository
+
+I have an indie music blog called After The Show.
+
+Check it out!
